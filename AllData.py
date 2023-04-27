@@ -12,8 +12,8 @@ Options = Options()
 Options.add_experimental_option("detach", True)
 
 # Specify the username and password for the AlienVault account
-username = "eGov_SOC"
-password = "Admin@2023"
+username = "username"
+password = "password"
 driver_path = 'C:/Users/Sourabh.Grover/Downloads/'
 driver_name = 'chromedriver_win32.exe'
 driver_fullpath = os.path.join(driver_path, driver_name)
